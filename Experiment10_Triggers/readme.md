@@ -1,5 +1,6 @@
 # Experiment 10: PL/SQL – Triggers
-
+## Name: BALA MURUGAN S
+## Reg.no:212223230027
 ## AIM
 To write and execute PL/SQL trigger programs for automating actions in response to specific table events like INSERT, UPDATE, or DELETE.
 
