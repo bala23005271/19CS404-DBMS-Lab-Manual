@@ -1,6 +1,6 @@
 # Experiment 4: Aggregate Functions, Group By and Having Clause
-## Name:Sharan G
-## Reg.no:212223230203
+## Name:BALA MURUGAN S
+## Reg.no:212223230027
 ## AIM
 To study and implement aggregate functions, GROUP BY, and HAVING clause with suitable examples.
 
